@@ -1,9 +1,10 @@
 # Horiseon-Media
 
-#Purpose
+# Purpose
+
 A Website that offers services on how to enchance their business.
 
-#Built With
+# Built With
 
 - HTML
 - CSS
