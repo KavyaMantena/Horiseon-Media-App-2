@@ -1,6 +1,4 @@
-# Code Refactor Starter Code
-
-Horiseon-Media
+# Horiseon-Media
 
 #Purpose
 A Website that offers services on how to enchance their business.
